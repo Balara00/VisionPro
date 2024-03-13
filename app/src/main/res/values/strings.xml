@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Vision Pro</string>
+    <string name="vp_request_permission">This app needs camera permission.</string>
+    <string name="vp_tv_fps">Fps: %d</string>
+    <string name="vp_tv_score">Detection Score: %.2f</string>
+    <string name="vp_tv_classification_value">- %s</string>
+    <string name="vp_tv_model">Model: </string>
+    <string name="vp_tv_pose_classification">Pose Classification</string>
+
+    <string-array name="vp_models_array">
+        <item>Movenet Thunder</item>
+        <item>Movenet Lightning</item>
+<!--        <item>EfficientPose II LITE</item>-->
+    </string-array>
+</resources>

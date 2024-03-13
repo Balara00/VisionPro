@@ -1,0 +1,212 @@
+{
+  "bow": {
+    "left_shoulder" : 1,
+    "right_shoulder" : 1,
+    "left_elbow" : 1,
+    "right_elbow" : 1,
+    "left_hip" : 1,
+    "right_hip" : 1,
+    "left_knee" : 1,
+    "right_knee" : 1
+  },
+  "bridge" : {
+    "left_shoulder" : 1,
+    "right_shoulder" : 1,
+    "left_elbow" : 1,
+    "right_elbow" : 1,
+    "left_hip" : 1,
+    "right_hip" : 1,
+    "left_knee" : 1,
+    "right_knee" : 1
+  },
+  "camel" : {
+    "left_shoulder" : 1,
+    "right_shoulder" : 1,
+    "left_elbow" : 1,
+    "right_elbow" : 1,
+    "left_hip" : 1,
+    "right_hip" : 1,
+    "left_knee" : 1,
+    "right_knee" : 1
+  },
+  "cat" :{
+    "left_shoulder" : 80,
+    "right_shoulder" : 80,
+    "left_elbow" : 170,
+    "right_elbow" : 175,
+    "left_hip" : 100,
+    "right_hip" : 100,
+    "left_knee" : 85,
+    "right_knee" : 85
+  },
+  "cow" : {
+    "left_shoulder" : 1,
+    "right_shoulder" : 1,
+    "left_elbow" : 1,
+    "right_elbow" : 1,
+    "left_hip" : 1,
+    "right_hip" : 1,
+    "left_knee" : 1,
+    "right_knee" : 1
+  },
+  "crow" : {
+    "left_shoulder" : 1,
+    "right_shoulder" : 1,
+    "left_elbow" : 1,
+    "right_elbow" : 1,
+    "left_hip" : 1,
+    "right_hip" : 1,
+    "left_knee" : 1,
+    "right_knee" : 1
+  },
+  "extendedHandToToe" : {
+    "left_shoulder" : 1,
+    "right_shoulder" : 1,
+    "left_elbow" : 1,
+    "right_elbow" : 1,
+    "left_hip" : 1,
+    "right_hip" : 1,
+    "left_knee" : 1,
+    "right_knee" : 1
+  },
+  "extendedSideAngle" : {
+    "left_shoulder" : 1,
+    "right_shoulder" : 1,
+    "left_elbow" : 1,
+    "right_elbow" : 1,
+    "left_hip" : 1,
+    "right_hip" : 1,
+    "left_knee" : 1,
+    "right_knee" : 1
+  },
+  "forwardBendWithShoulderOpener": {
+    "left_shoulder" : 1,
+    "right_shoulder" : 1,
+    "left_elbow" : 1,
+    "right_elbow" : 1,
+    "left_hip" : 1,
+    "right_hip" : 1,
+    "left_knee" : 1,
+    "right_knee" : 1
+  },
+  "halfMoon": {
+    "left_shoulder" : 1,
+    "right_shoulder" : 1,
+    "left_elbow" : 1,
+    "right_elbow" : 1,
+    "left_hip" : 1,
+    "right_hip" : 1,
+    "left_knee" : 1,
+    "right_knee" : 1
+  },
+  "lowLunge": {
+    "left_shoulder" : 1,
+    "right_shoulder" : 1,
+    "left_elbow" : 1,
+    "right_elbow" : 1,
+    "left_hip" : 1,
+    "right_hip" : 1,
+    "left_knee" : 1,
+    "right_knee" : 1
+  },
+  "plank": {
+    "left_shoulder" : 75,
+    "right_shoulder" : 75,
+    "left_elbow" : 175,
+    "right_elbow" : 175,
+    "left_hip" : 170,
+    "right_hip" : 170,
+    "left_knee" : 175,
+    "right_knee" : 175
+  },
+  "shoulderStand" : {
+    "left_shoulder" : 1,
+    "right_shoulder" : 1,
+    "left_elbow" : 1,
+    "right_elbow" : 1,
+    "left_hip" : 1,
+    "right_hip" : 1,
+    "left_knee" : 1,
+    "right_knee" : 1
+  },
+  "sidePlank" : {
+    "left_shoulder" : 1,
+    "right_shoulder" : 1,
+    "left_elbow" : 1,
+    "right_elbow" : 1,
+    "left_hip" : 1,
+    "right_hip" : 1,
+    "left_knee" : 1,
+    "right_knee" : 1
+  },
+  "sphinx" : {
+    "left_shoulder" : 1,
+    "right_shoulder" : 1,
+    "left_elbow" : 1,
+    "right_elbow" : 1,
+    "left_hip" : 1,
+    "right_hip" : 1,
+    "left_knee" : 1,
+    "right_knee" : 1
+  },
+  "tree" : {
+    "left_shoulder" : 1,
+    "right_shoulder" : 1,
+    "left_elbow" : 1,
+    "right_elbow" : 1,
+    "left_hip" : 1,
+    "right_hip" : 1,
+    "left_knee" : 1,
+    "right_knee" : 1
+  },
+  "upwardFacingDog" : {
+    "left_shoulder" : 25,
+    "right_shoulder" : 25,
+    "left_elbow" : 175,
+    "right_elbow" : 175,
+    "left_hip" : 130,
+    "right_hip" : 130,
+    "left_knee" : 175,
+    "right_knee" : 175
+  },
+  "warriorOne": {
+    "left_shoulder" : 1,
+    "right_shoulder" : 1,
+    "left_elbow" : 1,
+    "right_elbow" : 1,
+    "left_hip" : 1,
+    "right_hip" : 1,
+    "left_knee" : 1,
+    "right_knee" : 1
+  },
+  "warriorThree" : {
+    "left_shoulder" : 1,
+    "right_shoulder" : 1,
+    "left_elbow" : 1,
+    "right_elbow" : 1,
+    "left_hip" : 1,
+    "right_hip" : 1,
+    "left_knee" : 1,
+    "right_knee" : 1
+  },
+  "warriorTwo" : {
+    "left_shoulder" : 100,
+    "right_shoulder" : 95,
+    "left_elbow" : 175,
+    "right_elbow" : 175,
+    "left_hip" : 100,
+    "right_hip" : 125,
+    "left_knee" : 105,
+    "right_knee" : 170
+  },
+  "wheel" : {
+    "left_shoulder" : 1,
+    "right_shoulder" : 1,
+    "left_elbow" : 1,
+    "right_elbow" : 1,
+    "left_hip" : 1,
+    "right_hip" : 1,
+    "left_knee" : 1,
+    "right_knee" : 1
+  }
+}
