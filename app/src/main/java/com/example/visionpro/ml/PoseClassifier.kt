@@ -60,7 +60,16 @@ class PoseClassifier (
 //      Postprocess the model output to human readable class names
         val outputTensor = FloatArray(output[1])
 
+        val startTime = System.nanoTime()
+
         interpreter.run(arrayOf(inputVector), arrayOf(outputTensor))
+
+        val endTime = System.nanoTime()
+        val classificationInferenceTimeMs = (endTime - startTime) / 1000000.0
+//        val formattedString = String.format("%.3f", classificationInferenceTimeMs)
+
+        Log.i("Classification Inference Time : ", "$classificationInferenceTimeMs ms")
+
         Log.i("OutputTensorAfter : ", Arrays.toString(outputTensor))
 
         val output = mutableListOf<Pair<String, Float>>()

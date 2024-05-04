@@ -242,7 +242,13 @@ class CameraSource (
         var classificationResult: List<Pair<String, Float>>? = null
 
         synchronized(lock) {
+            val startTimeDetector = System.nanoTime()
+
             detector?.estimatePoses(bitmap)?.let {
+                val endTimeDetector = System.nanoTime()
+                val detectorInferenceTimeMs = (endTimeDetector - startTimeDetector) / 1000000.0
+                Log.i("Detector Inference Time (ms): ", "$detectorInferenceTimeMs ms")
+
                 persons.addAll(it)
         // if the model only returns one item, allow running the Pose classifier.
                 if (persons.isNotEmpty()) {
@@ -252,6 +258,9 @@ class CameraSource (
                     }
                 }
             }
+
+
+
         }
         frameProcessedInOneSecondInterval++
 
